@@ -43,7 +43,7 @@ $button-color:#869596;
         text-align: center;
         display: grid;
         grid-template-columns: 1fr 3fr 1fr;
-        margin-top: 20px;
+        margin-top: 15px;
         font-size: 150%;
         font-weight: bold;
     }
@@ -70,6 +70,7 @@ $button-color:#869596;
         text-align: center;
 
         div{
+            padding-top: 5px;
             font-size: 120%;
             font-weight: bold;
         }
@@ -120,7 +121,7 @@ $button-color:#869596;
     .secondRow-gallery { 
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        column-gap: 5px;
+        column-gap: 8px;
         margin-top: 5px;
 
         .gallery-img { 

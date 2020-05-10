@@ -142,4 +142,11 @@ $button-color:#869596;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    text-align: center;
+
+    div{
+        font-size: 120%;
+        padding-top: 10px;
+        text-align: center;
+    }
 }

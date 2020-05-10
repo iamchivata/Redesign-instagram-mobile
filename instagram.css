@@ -142,5 +142,12 @@
       grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  text-align: center;
+}
+
+.thirdRow div {
+  font-size: 120%;
+  padding-top: 10px;
+  text-align: center;
 }
 /*# sourceMappingURL=instagram.css.map */
